@@ -30,4 +30,7 @@ https://www.fotor.com/features/background-remover/upload
 For logos
 https://www.vecteezy.com/free-png/twitter
 
+![Front end](https://github.com/mohishghadge/Aafiya_Mediretreatment_Clone/assets/95461569/6971efd3-6d17-4be4-992a-1e6cfd18d79f)
+
+
 
